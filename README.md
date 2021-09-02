@@ -41,7 +41,7 @@ func main() {
 	fmt.Println(ipv4) // 192.0.2.1
 }
 ```
-[Run in Go Playground](https://play.golang.org/)
+[Run in Go Playground](https://play.golang.org/p/N2uNvQxOegz)
 
 ## Documentation and examples:
 
